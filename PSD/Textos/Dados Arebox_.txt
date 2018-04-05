@@ -1,0 +1,104 @@
+Dados Arebox
+
+Segue os dados de FTP
+ 
+www.arebox.com.br
+Login:areboxco
+Senha: Are*2016
+
+
+E-mail
+
+leadsarebox@gmail.com
+
+positividade@2016
+
+
+
+Adwords
+
+ID do cliente: 611-872-9229
+
+
+
+
+Analytics 
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-79421714-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+
+
+
+
+Tag de conversão 
+
+
+Ainda aguardando aprovação da conta Google
+
+
+
+
+Remarketing
+
+Somente depois que aprovar a cotna de adwords.
+
+
+
+
+Pixel 
+
+
+<!-- Facebook Conversion Code for Leads - Arebox - Agua da Rocha -->
+<script>(function() {
+  var _fbq = window._fbq || (window._fbq = []);
+  if (!_fbq.loaded) {
+    var fbds = document.createElement('script');
+    fbds.async = true;
+    fbds.src = 'https://connect.facebook.net/en_US/fbds.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(fbds, s);
+    _fbq.loaded = true;
+  }
+})();
+window._fbq = window._fbq || [];
+window._fbq.push(['track', '6055622250076', {'value':'0.00','currency':'BRL'}]);
+</script>
+<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?ev=6055622250076&amp;cd[value]=0.00&amp;cd[currency]=BRL&amp;noscript=1" /></noscript>
+
+
+
+SEO 
+
+Página arebox title - Arebox 
+
+Página Agua da Rocha Title - Agua da Rocha 
+
+
+
+Página Arexox - Areia e pedra
+
+    <meta name="keywords" content="areia, pedra, transporte areia e pedra, caminhao de areia, caminhao de pedra, areia taboao, pedra taboao">
+    <meta name="description" content="Arebox é uma empresa moderna com capacidade para atendê-lo com eficiência, qualidade e agilidade a um custo altamente competitivo">
+
+
+
+Página Arebox - Caçambas 
+
+    <meta name="keywords" content="caçambas, entulho, transporte de entulho, entulho taboao, caçambas taboao, caçambas embu, caçambas cotia, camçambas zona zul">
+    <meta name="description" content="AREBOX! Esta é uma empresa moderna com capacidade para atendê-lo com eficiência, qualidade e agilidade a um custo altamente competitivo">
+
+
+Página Agua da Rocha
+
+    <meta name="keywords" content="agua potavel, caminhao pipa, caminhao piscina, caminhao dagua, caminhao de agua, transporte de agua, agua taboao, agua zona sul">
+    <meta name="description" content="Agua da Rocha é uma empresa moderna com capacidade para atendê-lo com eficiência, qualidade e agilidade a um custo altamente competitivo">
