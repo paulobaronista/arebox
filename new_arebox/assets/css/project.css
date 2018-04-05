@@ -1,0 +1,229 @@
+body {
+ font-family: 'Droid Sans', sans-serif;
+ font-size: 100%;
+}
+nav {
+ height: 90px;
+ box-shadow: none;
+ border-bottom: solid 1px #ddd;
+ margin-bottom: 0px;
+}
+nav ul a {
+ padding: 13px 8px;
+}
+nav ul a:hover {
+ background-color: transparent;
+}
+.side-nav {
+  z-index: 999999;
+}
+#fixed_div {
+ position: absolute;
+ top: 0;
+ right: 0;
+ z-index: 9999;
+}
+.box-phone {
+ height: 23px; 
+ right: 0;
+ margin-top: 2px;
+ position: absolute;
+}
+.box-phone a {
+ float: right;
+ height: 23px;
+}
+.box-phone a i {
+ float: left;
+ color: #222;
+ margin: -16px 0 0 0;
+ line-height: 54px;
+}
+.box-phone a p {
+ float: left;
+ color: #222;
+ height: 23px;
+ margin: 0 0 0 5px;
+}
+.box-phone a span {
+ text-decoration: underline;
+}
+.brand-logo {
+ height: 60px;
+ margin-top: 2px;
+}
+#servicos h5 {
+ font-weight: 500;
+ font-size: 1.74rem; 
+}
+#servicos h4 {
+ font-weight: 300; 
+ font-size: 1.99rem;
+}
+.video-container {
+  height: 450px;
+  overflow: hidden;
+  padding-bottom: 0;
+  position: relative;
+}
+.footer-copyright a {
+ font-size: 1.5rem;
+}
+.itens-footer {
+ line-height: 0;
+ display: block;
+ width: 100%;
+ float: left;
+ margin-bottom: 5px;
+}
+.itens-footer i {
+ float: left;
+ color: #FFF;
+}
+.itens-footer p {
+ margin: -4px 0 0 5px;
+ float: left;
+}
+.txt-quem-somos {
+ text-align: center;
+ line-height: 24px;
+}
+.input-field {
+ margin-top: 25px;
+}
+
+.brown-text .icon-azul {
+ color: #03a9f4 !important;
+}
+.brown-text .icon-vd {
+ color: #43a047 !important;
+}
+.slider {
+ height: 420px !important;
+ z-index: 8888;
+}
+.slider .indicators .indicator-item.active {
+ background-color: #0088ce;
+}
+.slider .indicators .indicator-item {
+ height: 13px;
+ margin: 0 6px;
+ width: 13px;
+ background-color: #ddd;
+}
+.slider .indicators {
+ bottom: -3px;
+}
+strong {
+ font-weight: bold !important;
+}
+.card {
+ /* background-color: rgba(206,229,205,0.8); */
+ color: #263238;
+ background-color: rgba(255,255,255,0.8);
+}
+.card .card-action {
+ background-color: transparent;
+ border-top: 1px solid rgba(38, 50, 56, 0.2);
+}
+.slider .slides li .caption p {
+ color: #263238;
+}
+.slider .indicators {
+  z-index: 9999;
+}
+.slider .indicators .indicator-item {
+  margin: 0 4px;
+}
+.dropdown-content li > a, .dropdown-content li > span {
+  color: #0088ce;
+  padding: 9px 17px;
+}
+#dropdown1 {
+ z-index: 9999;
+ top: 65px !important;
+}
+.mapss iframe{
+ pointer-events: none;
+}
+.txt_obrigado {
+  padding: 10% 0 10% 0;
+}
+@media only screen and (max-width: 600px) {
+  nav {
+   height: 50px;
+  }
+  nav ul li {
+   padding: 0px 0 !important;
+  }
+  nav ul a {
+   border-right: none !important;
+  }
+  .card .card-action a {
+   margin: 5px 0 5px 0;
+  }
+  .slider .indicators {
+   z-index: 333;
+   left: auto;
+  }
+  .slider {
+   height: 400px !important;
+   background-color: transparent !important;
+  }
+  .footer-mobile {
+   display: none;
+  }
+}
+@media only screen and (min-width: 601px) and (max-width: 992px) {
+  nav {
+   height: 65px;
+  }
+  nav .brand-logo img {
+    width: 200px;
+  }
+  .logo-agua {
+   width: 310px !important;
+  }
+  nav ul li {
+   padding: 0px 0 !important;
+  }
+  nav ul a {
+   border-right: none !important;
+   color: red;
+  }
+  .card .card-action a {
+   margin: 5px 0 5px 0;
+  }
+}
+
+@media only screen and (min-width: 601px) {
+  .slider, .slides {
+   height: 455px !important;
+   background-color: transparent !important;
+  }
+
+}
+
+@media only screen and (min-width: 1365px) {
+  nav .container {
+   width: 75% !important;
+  }
+  .slider .slides li .caption {
+   right: 15%;
+   left: auto;
+   width: 20%;
+  }
+  .card .card-action a {
+   margin: 5px 0 5px 0;
+  }
+}
+@media only screen and (max-width: 1365px) {
+  nav .container {
+   width: 75% !important;
+  }
+}
+@media only screen and (max-width: 1166px) {
+  nav .container {
+   width: 88% !important;
+  }
+}
