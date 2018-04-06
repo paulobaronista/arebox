@@ -143,9 +143,11 @@ strong {
  z-index: 9999;
  top: 65px !important;
 }
+/*
 .mapss iframe{
  pointer-events: none;
 }
+*/
 .txt_obrigado {
   padding: 10% 0 10% 0;
 }

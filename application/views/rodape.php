@@ -4,7 +4,7 @@
         <div class="col l6 s12">
           <h5 class="white-text">ENTRE EM CONTATO</h5>
            <span class="itens-footer"><i class="material-icons">email</i><p class="grey-text text-lighten-4">contato@arebox.com.br</p></span>
-           <span class="itens-footer"><i class="material-icons">phonelink_ring</i><p class="grey-text text-lighten-4">Nextel: 55*53861*106 ou (11) 7726-0485</p></span>
+           <span class="itens-footer"><i class="material-icons">phonelink_ring</i><p class="grey-text text-lighten-4">Nextel: 55*53861*106 ou (11) 9 4751-7707</p></span>
            <span class="itens-footer"><i class="material-icons">phone</i><p class="grey-text text-lighten-4">Atendimento: (11) 4787-3828</p></span>
         </div>
         <div class="col l3 s12">
